@@ -8,16 +8,7 @@ class App extends React.Component {
     return (
       <div className="App">
       <header className="App-header">
-        Test
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+       Application de gestion de stock
     </div>
     )
   }
