@@ -8,7 +8,7 @@ class App extends React.Component {
     return (
       <div className="App">
       
-       Application de gestion de stock
+       Application de gestion de stock hello
     </div>
     )
   }
